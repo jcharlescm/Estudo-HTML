@@ -627,24 +627,3 @@ nav {
 .logo-whatsapp img {
   width: 100%;
 }
-
-
-.group {
-  zoom: 2;
-}
-
-div {
-  display: block;
-  unicode-bidi: isolate;
-}
-.group:before, .group:after {
-  content: "";
-  display: table;
-}
-.group:after {
-  clear: both;
-}
-.group:before, .group:after {
-  content: "";
-  display: table;
-}

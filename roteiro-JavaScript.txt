@@ -1,5 +1,11 @@
+/* 
+
 Instalar o NODE.js
 Executar o NODE.js:
     - Abrir o powerShell e ir até a pasta que está o arquivo .js(script.js)
     $ node .\script.js
+
+
+https://pt.stackoverflow.com/questions/261957/colocar-uma-div-do-lado-da-outra
     
+*/
