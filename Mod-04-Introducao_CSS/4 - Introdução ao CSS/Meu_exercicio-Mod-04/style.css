@@ -1,0 +1,40 @@
+/* FOLHA DE ESTILO - Tags, IDs e Classes */
+
+/*   -------------------------------- */
+/* Tags */
+
+h1 {
+    color: orange;
+}
+
+h2 {
+  color: blueviolet;
+}
+
+/*   -------------------------------- */
+/* IDs */
+#primeiro-paragrafo {
+  font-size: 15px;
+  color: blue;
+}
+#segundo-paragrafo {
+  font-size: 25px;
+  color: brown;
+}
+#terceiro-paragrafo {
+  font-size: 35px;
+  color: green;
+}
+
+#quarto-paragrafo, 
+#quinto-paragrafo,
+#sexto-paragrafo {
+  font-size: 45px;
+  color: blue;
+}
+
+/*   -------------------------------- */
+/* Classes */
+.paragrafo {
+  font-size: 55px;
+}
